@@ -78,4 +78,10 @@ public class Conta {
     public static  int getTotal() {
         return Conta.total;
     }
+    
+    
+    private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
